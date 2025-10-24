@@ -28,5 +28,5 @@ It implements a responsive *User Profiles Management* interface using *React* an
 
 ### 1. Clone or Download the Repository
 ```bash
-git clone https://github.com/<your-username>/user_profiles_react_tailwind.git
+git clone https://github.com/0207ABHIRAM/user_profiles_react_tailwind.git
 cd user_profiles_react_tailwind
